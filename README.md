@@ -1,4 +1,4 @@
-#Wallaby, Auerelia CLI, Typescript and Jest
+## Wallaby, Aurelia CLI, Typescript and Jest
 
 Wallaby configuration a base cli project which works with Typescript, and Jest.
 
