@@ -49,7 +49,7 @@
     "nps-utils": "^1.7.0",
     "opn": "^5.4.0",
     "plugin-error": "^1.0.1",
-    "protractor": "^5.4.1",
+    "protractor": "^5.4.4",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "through2": "^2.0.3",
